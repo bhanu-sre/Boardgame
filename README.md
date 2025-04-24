@@ -31,3 +31,12 @@ This project implements a **fully automated, secure, and scalable CI/CD pipeline
 
 ## 📖 Read the Full Blog  
 For a detailed walkthrough of this project, check out my blog post: [**ultimate-corporate-grade-devsecops-pipeline**](https://itspraduman.hashnode.dev/ultimate-corporate-grade-devsecops-pipeline)  
+
+## ☕ Support
+
+If you found this project helpful or interesting, consider supporting me by buying a coffee:
+
+<a href="https://www.buymeacoffee.com/praduman" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important; width: 145px !important;">
+</a>
+
